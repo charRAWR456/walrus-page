@@ -2,7 +2,7 @@ img{
   height: 50%;
   width: 50%;
 }
-.walrus-showing{
+#initially-hidden{
   display: none;
 }
 .clickable{
