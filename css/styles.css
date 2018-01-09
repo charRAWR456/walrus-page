@@ -13,3 +13,16 @@ img{
 .clickable:hover{
   text-decoration: underline;
 }
+
+#slide-test{
+  display:none;
+}
+
+.clickable-about{
+  cursor: pointer;
+  color:Red;
+}
+
+.clickable-about:hover{
+  text-decoration: underline;
+}
